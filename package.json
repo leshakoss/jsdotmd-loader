@@ -1,0 +1,14 @@
+{
+  "name": "jsdotmd-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for jsdotmd",
+  "main": "index.js",
+  "author": "Lesha Koss <regiusprod@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "jsdotmd": "^0.0.4"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
